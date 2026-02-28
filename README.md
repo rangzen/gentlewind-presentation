@@ -1,6 +1,8 @@
 # GentleWind Presentation
 
-Here are the presentation slides: [Insight on Context & Memory for Supportive Assistant.pdf](./Insights%20on%20Context%20&%20Memory%20for%20a%20Supportive%20Assistant.pdf)
+Here are the presentation slides:
+- [GenAI 2025 version](./Insights%20on%20Context%20&%20Memory%20for%20a%20Supportive%20Assistant.pdf)
+- [Confoo 2026 version](./2026-02-26%20Insights%20on%20Context%20&%20Memory%20for%20a%20Supportive%20Assistant%20by%20Cedric%20L%27homme.pdf)
 
 Here are the links from the presentation:
 
